@@ -3,4 +3,4 @@ This is a work in progress client application for an instant messaging platfrom 
 
 
 ### Status
-[![Build Status](https://travis-ci.org/simkimsia/UtilityBehaviors.png)](https://travis-ci.org/simkimsia/UtilityBehaviors)
+[![Build Status](https://travis-ci.org/simkimsia/UtilityBehaviors.png)](about:blank)
